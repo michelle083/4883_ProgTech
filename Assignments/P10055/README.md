@@ -19,9 +19,8 @@
 |   2   | [main.cpp]() | Main driver of my list program . |
 
 
-### Instructions
+### Instructions - Starter Code
 
-#### Starter Code
 ```cpp
 /**
 * Name
