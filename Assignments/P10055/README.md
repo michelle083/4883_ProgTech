@@ -18,6 +18,7 @@
 |   1   | [banner.txt](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/P10055/banner.txt) | Banner file  |
 |   2   | [10055.pdf](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/P10055/Problem%2010055.pdf) |  Problem pdf  |
 |   3   | [main.cpp](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/P10055/main.cpp) | Main driver of program |
+|   4   | [input.txt](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/P10055/input.txt) | Input file |
 
 
 ### Instructions - Starter Code
