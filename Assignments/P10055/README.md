@@ -22,11 +22,7 @@
 ### Instructions - Starter Code
 
 ```cpp
-/**
-* Name
-* Course
-* Date
-*/
+
 #include <iostream>
 
 #define endl "\n"
