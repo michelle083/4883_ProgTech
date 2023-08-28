@@ -21,7 +21,7 @@
 
 ### Instructions
 
-### Starter Code
+#### Starter Code
 ```cpp
 /**
 * Name
