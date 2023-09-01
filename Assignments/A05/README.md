@@ -15,7 +15,7 @@
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [161.pdf]() |  Problem pdf  |
+|   1   | [161.pdf](https://github.com/michelle083/4883_ProgTech/blob/main/Assignments/A05/P161.pdf) |  Problem pdf  |
 |   3   | [main.cpp](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/A05/main.cpp) | Main driver of program |
 |   4   | [input.txt](https://github.com/michelle083/4883_ProgTech_Michelle/blob/main/Assignments/A05/input.txt) | Input file |
 
