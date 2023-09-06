@@ -4,6 +4,6 @@
 | :---: | ----------- | -------------------------- |
 |   1   | [A03](https://github.com/michelle083/4883_ProgTech_Michelle/tree/main/Assignments/P10055) | OnlineJudge Problem 10055 |
 |   2   | [A04](https://github.com/michelle083/4883_ProgTech_Michelle/tree/main/Assignments/A04) | Easy Breezy |
-|   3   |  |  |
+|   3   | [A05](https://github.com/michelle083/4883_ProgTech_Michelle/tree/main/Assignments/A05) | Traffic Lights |
 |   4   |  |  |  
 |   5   |  |  |
