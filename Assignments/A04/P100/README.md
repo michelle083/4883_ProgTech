@@ -20,11 +20,4 @@
 |   3   | [input.txt](https://github.com/michelle083/4883_ProgTech/blob/main/Assignments/A04/P100/input.txt) | Input file |
 
 
-### Instructions 
-
-
-
-### Example Command
-
-- None for now. 
 
