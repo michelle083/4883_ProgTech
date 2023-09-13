@@ -8,7 +8,7 @@ Solutions to beginner difficulty problems.
 
 |   #   | Problem Folders     | Description                      |
 | :---: | ------------------- | -------------------------------- |
-|  1  |  |  |
+|  1  | [P100](https://github.com/michelle083/4883_ProgTech/tree/main/Assignments/A04/P100) | The 3n + 1 problem |
 |  2  |  |  |
 |  3  |  |  |
 |  4  |  |  |

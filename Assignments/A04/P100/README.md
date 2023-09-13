@@ -1,6 +1,6 @@
-## Easy Breezy - P100
+## P100 - The 3n + 1 problem
 ### Michelle Orru
-### Description: 
+### Description: Online Judge P100
 
 - Number:
   - 100 
