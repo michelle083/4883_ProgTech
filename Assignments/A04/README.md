@@ -15,3 +15,6 @@ Solutions to beginner difficulty problems.
 |  5  |  |  |
 |  6  |  |  |
 |  7  |  |  |
+|  8  |  |  |
+|  9  |  |  |
+|  10 |  |  |
