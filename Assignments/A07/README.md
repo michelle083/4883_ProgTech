@@ -22,7 +22,10 @@
 
 ### Instructions 
 
-
+- Trains come in order (1,2,3...)
+- Use a stack to try and achieve the specified order from the input
+- If you can, output a YES
+- Else output a NO
 
 ### Example Command
 
