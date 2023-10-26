@@ -22,7 +22,7 @@
 
 ### Instructions 
 
-- 
+- This code calculates and prints the smallest angle between the hour and minute hands of a clock for a given time. The function ``findAngle`` calculates the smallest angle using depth-first search (DFS), and the program reads input times, processes them, and prints the results with three decimal places.
 
 ### Example Command
 
