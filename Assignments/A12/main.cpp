@@ -80,7 +80,7 @@ public:
 };
 
 int main() {
-  int N;           // Number of test cases
+  int N; // Number of test cases
   int caseNum = 0; // Initialize case number to 0
 
   // n = servers (vertices), m = cables (edges),
