@@ -1,5 +1,8 @@
-// Michelle Orru
-// UVA 10986 - Sending Email
+/**
+ * Michelle Orru
+ * CMPS 4883 - Programming Techniques
+ * P10986 - Sending Email
+ */
 
 // Dijkstra's algorithm for finding the shortest path in a weighted, directed
 // graph the program reads a series of test cases each case represents a network
